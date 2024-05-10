@@ -1,0 +1,21 @@
+5/10/2024 10:11:05 AM--What is your favorite food?--Beans and garri
+Date:5/10/2024 12:14:12 PM,What is your favorite board game?,chess
+Prompt:What is your favorite board game?
+chess
+
+Date:5/10/2024 7:49:02 PM,What is your favorite hobby?,Codig
+Prompt:What is your favorite hobby?
+Codig
+
+Date:5/10/2024 7:49:13 PM,What is your favorite color?,blue
+Prompt:What is your favorite color?
+blue
+
+Date:5/10/2024 7:49:19 PM,What is your favorite TV show?,shogun
+Prompt:What is your favorite TV show?
+shogun
+
+Date:5/10/2024,What is your favorite video game?,Chess
+Prompt:What is your favorite video game?
+Chess
+
